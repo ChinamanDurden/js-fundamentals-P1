@@ -7,8 +7,19 @@ function exercise5() {
   //
   // Edit only the code between the lines (below)
   // -----------------------------------------------------------------
+  
+  
+  USE EXERCISE 6.5 
+  
   for (let number = 0; number < 25; number++) {
     if (number % 2) {
+      console.log(number);
+    }
+    console.log(number);
+  }
+
+  for (let number = 0; number < 26; number++) {
+    if (number % 2 !=0) {
       console.log(number);
     }
     console.log(number);
